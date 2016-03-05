@@ -1,3 +1,9 @@
 body {background-color: silver;}
 
 h1 {color: green;}
+
+p {
+	
+	font-size: 26px;
+	color: purple;
+}
