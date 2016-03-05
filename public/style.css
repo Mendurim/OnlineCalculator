@@ -1,11 +1,17 @@
-body {background-color: silver;}
+body {
+	background-color: silver;
+}
 
-h1 {color: green;}
+h1 {
+	color: green;
+}
 
-p {
-	
+p {	
+
 	font-size: 26px;
 	color: purple;
 }
 
-.alt_class {color: red;}
+.alt_class {
+	color: red;
+}
